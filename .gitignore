@@ -32,3 +32,6 @@ go.work.sum
 .vscode/
 
 local.yaml
+
+#Mac
+.DS_Store
