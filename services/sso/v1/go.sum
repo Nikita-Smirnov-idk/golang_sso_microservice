@@ -1,0 +1,4 @@
+github.com/Nikita-Smirnov-idk/go_microservices_template_project/api v0.0.0-20251118003700-098a581e8cf6 h1:VvsKE6vWh4Rph8460IT6sE+lQdkloMeDgWA1mLU5KCA=
+github.com/Nikita-Smirnov-idk/go_microservices_template_project/api v0.0.0-20251118003700-098a581e8cf6/go.mod h1:1O7cG9ki2ZOccTdhQaOqTjXHsqptGHwzy29PjU95sEw=
+github.com/Nikita-Smirnov-idk/go_microservices_template_project/pkg v0.0.0-20251118004741-e521a1de67d5 h1:kJr+BmOcFvGKcEfxN3gKZazwmSqzfG9A7RKD2FydKdg=
+github.com/Nikita-Smirnov-idk/go_microservices_template_project/pkg v0.0.0-20251118004741-e521a1de67d5/go.mod h1:Op5KTrvgxDQJN32pa4odr2Nc0ROODAHVlTUYEtNwoTg=
