@@ -1,0 +1,1 @@
+# go_microservices_template_project
