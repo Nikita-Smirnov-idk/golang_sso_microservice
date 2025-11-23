@@ -3,7 +3,7 @@ package auth
 import (
 	"context"
 
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/internal/domain/models"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/internal/domain/models"
 )
 
 type UserSaver interface {

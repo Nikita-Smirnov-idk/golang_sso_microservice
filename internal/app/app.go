@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/internal/transport/grpc"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/internal/transport/grpc"
 )
 
 type App struct {

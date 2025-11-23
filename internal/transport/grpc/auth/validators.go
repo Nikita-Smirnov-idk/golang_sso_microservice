@@ -1,7 +1,7 @@
 package auth
 
 import (
-	ssopb "github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/contracts/gen/go"
+	ssopb "github.com/Nikita-Smirnov-idk/golang_sso_microservice/contracts/gen/go"
 	validation "github.com/go-ozzo/ozzo-validation"
 	"github.com/go-ozzo/ozzo-validation/is"
 )

@@ -1,4 +1,4 @@
-module github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1
+module github.com/Nikita-Smirnov-idk/golang_sso_microservice
 
 go 1.25
 

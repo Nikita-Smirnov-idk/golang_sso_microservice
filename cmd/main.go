@@ -6,8 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/internal/app"
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/internal/app/config"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/internal/app"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/internal/app/config"
 )
 
 const (

@@ -7,8 +7,8 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/internal/infrastructure/repository"
-	"github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/pkg/jwt"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/internal/infrastructure/repository"
+	"github.com/Nikita-Smirnov-idk/golang_sso_microservice/pkg/jwt"
 	"golang.org/x/crypto/bcrypt"
 )
 

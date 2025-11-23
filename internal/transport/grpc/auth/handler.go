@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	ssopb "github.com/Nikita-Smirnov-idk/go_microservices_template_project/services/sso/v1/contracts/gen/go"
+	ssopb "github.com/Nikita-Smirnov-idk/golang_sso_microservice/contracts/gen/go"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
